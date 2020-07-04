@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mohitdhimanskt/nodeW3-ex-4/issues"
   },
-  "homepage": "https://github.com/mohitdhimanskt/nodeW3-ex-4#readme"
+  "homepage": "https://github.com/mohitdhimanskt/nodeW3-ex-4#readme",
+  "dependencies": {
+    "handlebars": "^4.7.6"
+  }
 }
