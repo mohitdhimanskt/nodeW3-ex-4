@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mohitdhimanskt/nodeW3-ex-4#readme",
   "dependencies": {
-    "handlebars": "^4.7.6"
+    "handlebars": "^4.7.7"
   }
 }
